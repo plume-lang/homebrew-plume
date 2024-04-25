@@ -1,7 +1,7 @@
 class Plume < Formula
   desc "Portable, powerful and easy to use programming language"
   homepage "https://github.com/plume-lang/plume"
-  url "https://github.com/plume-lang/plume.git", tag: "0.4.2", revision: "2636c7c6b3291b42654cd1c62d660c0deaa0e2b3"
+  url "https://github.com/plume-lang/plume.git", tag: "0.5", revision: "288f6897985d10fa1e90c7533520d7babba305f3"
   license "MIT"
   head "https://github.com/plume-lang/plume.git", branch: "main"
 
